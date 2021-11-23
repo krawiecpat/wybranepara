@@ -1,0 +1,26 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+p.blu {
+    background-color: blue
+}
+
+p.heh {
+    background-color: blue;
+}
+
+p.tak {
+    background-color: blue;
+}
+
+p.nol {
+    opacity: 0.5;
+
+}
+
+p.jes {
+    opacity: 0.4;
+}
